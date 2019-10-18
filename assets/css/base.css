@@ -85,6 +85,7 @@ html {
 body {
   background: #fff;
   font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
@@ -104,6 +105,7 @@ body {
 
 input, textarea, select {
   font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
@@ -112,7 +114,7 @@ input, textarea, select {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
-  color: #666;
+  color: #8ebebc;
   line-height: 1.5em;
 }
 
